@@ -1,0 +1,65 @@
+[
+    {   "Id":"1",
+        "Image": "https://i.ibb.co/30MsqQj/Rectangle-2.png",
+        "Title": "Introduction to Python Programming",
+        "Details": "Learn the basics of Python",
+        "Price": 2000,
+        "Credit": 3
+    },
+    {   "Id":"2",
+        "Image": "https://i.ibb.co/GCK0Jhq/Rectangle-2-1.png",
+        "Title": "Data Analysis with Pandas",
+        "Details": "Explore data analysis.",
+        "Price": 3000,
+        "Credit": 4
+    },
+    {   "Id":"3",
+        "Image": "https://i.ibb.co/nBqXDPF/Rectangle-2-2.png",
+        "Title": "Web Development with React",
+        "Details": "Build interactive web",
+        "Price": 5000,
+        "Credit": 3
+    },
+    {    "Id":"4",
+        "Image": "https://i.ibb.co/DgR8X87/Rectangle-2-3.png",
+        "Title": "Machine Learning Fundamentals",
+        "Details": "Learn the basics of machine learn",
+        "Price": 4000,
+        "Credit": 4
+    },
+    {   "Id":"5",
+        "Image": "https://i.ibb.co/qJ3L3C0/Rectangle-2-4.png",
+        "Title": "Digital Marketing Essentials",
+        "Details": "Master digital marketing",
+        "Price": 1000,
+        "Credit": 2
+    },
+    {   "Id":"6",
+        "Image": "https://i.ibb.co/Jjkh0nK/Rectangle-2-5.png",
+        "Title": "Graphic Design Fundamentals",
+        "Details": " the principles of graphic design",
+        "Price": 2500,
+        "Credit": 3
+    },
+    {    "Id":"7",
+        "Image": "https://i.ibb.co/FDTPRqS/Rectangle-2-6.png",
+        "Title": "Introduction to Data Science",
+        "Details": "data science and statistical analysis.",
+        "Price": 3500,
+        "Credit": 2
+    },
+    {    "Id":"8",
+        "Image": "https://i.ibb.co/ts3f0tJ/Rectangle-3.png",
+        "Title": "Mobile App Development with Flutter",
+        "Details": "mobile apps using Flutter and Dart.",
+        "Price": 3700,
+        "Credit": 4
+    },
+    {   "Id":"9",
+        "Image": "https://i.ibb.co/JjPT9St/Rectangle-3-1.png",
+        "Title": "Advanced JavaScript Techniques",
+        "Details": "Advanced JavaScript concepts.",
+        "Price": 1500,
+        "Credit": 5
+    }
+]
